@@ -69,6 +69,7 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="File2.txt" />
     <Content Include="文件1.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
